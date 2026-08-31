@@ -56,11 +56,3 @@ Input:
 Prediction:
 
 Positive
-
-## Future Improvements
-
-- Try Linear SVM
-- Experiment with n-grams
-- Hyperparameter tuning
-- Try word embeddings
-- Build a web application using Streamlit
