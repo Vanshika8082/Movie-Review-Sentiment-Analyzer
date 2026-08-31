@@ -1,6 +1,6 @@
 # Movie Review Sentiment Analysis
 
-A machine learning project that classifies IMDb movie reviews as positive or negative using traditional NLP techniques.
+A machine learning project that classifies movie reviews as positive or negative using traditional NLP techniques.
 
 ## Project Overview
 
